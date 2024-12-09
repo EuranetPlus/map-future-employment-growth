@@ -4,10 +4,10 @@
   "legend1": "No data available",
   "tooltip1": "of GDP",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "European Centre for the Development of Vocational Training",
   "textNoteDescription": "Note",
   "textNote": "Maximum future employment growth is expected in ICT-related services, followed by professional services, health and social services, and hotels and restaurants.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
+  "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Click for more info"
 }
