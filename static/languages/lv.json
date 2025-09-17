@@ -1,13 +1,13 @@
 {
-  "heading": "Kuras ES valstis piedāvās vislabākās nodarbinātības izredzes nākamajos gados?",
-  "subheading": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
-  "legend1": "Nav pieejami dati",
+  "heading": "Kuras ES valstis piedāvās vislabākās nodarbinātības iespējas turpmākajos gados?",
+  "subheading": "Tiek lēsts, ka nodarbinātības pieaugums šajās valstīs 2022.–2035. gadā būs 5,6 %.",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "no IKP",
   "textSourceDescription": "Avots",
   "textSource": "Eiropas Profesionālās izglītības attīstības centrs",
   "textNoteDescription": "Piezīme",
-  "textNote": "Maksimālais nodarbinātības pieaugums nākotnē sagaidāms ar IKT saistītos pakalpojumos, kam sekos profesionālie pakalpojumi, veselības un sociālie pakalpojumi, kā arī viesnīcas un restorāni.",
+  "textNote": "Maksimālais nodarbinātības pieaugums nākotnē ir paredzams ar IKT saistīto pakalpojumu jomā, kam seko profesionālie pakalpojumi, veselības aprūpes un sociālie pakalpojumi, kā arī viesnīcas un restorāni.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

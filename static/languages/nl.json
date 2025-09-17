@@ -1,13 +1,13 @@
 {
-  "heading": "Welke EU-landen bieden de komende jaren de beste werkgelegenheidsvooruitzichten?",
+  "heading": "Welke EU-landen bieden de komende jaren de beste werkgelegenheidsperspectieven?",
   "subheading": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van het BBP",
   "textSourceDescription": "Bron",
   "textSource": "Europees Centrum voor de ontwikkeling van de beroepsopleiding",
   "textNoteDescription": "Opmerking",
-  "textNote": "De grootste toekomstige werkgelegenheidsgroei wordt verwacht in ICT-gerelateerde diensten, gevolgd door professionele diensten, gezondheids- en sociale diensten en hotels en restaurants.",
+  "textNote": "De grootste toekomstige werkgelegenheidsgroei wordt verwacht in ICT-gerelateerde diensten, gevolgd door professionele diensten, gezondheids- en sociale diensten en de horeca.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

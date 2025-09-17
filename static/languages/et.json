@@ -1,12 +1,12 @@
 {
-  "heading": "Millised ELi riigid pakuvad lähiaastatel parimaid töövõimalusi?",
-  "subheading": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "SKTst",
+  "heading": "Millised ELi riigid pakuvad lähiaastatel parimaid tööhõiveväljavaateid?",
+  "subheading": "Nende riikide tulevane tööhõive kasv aastatel 2022–2035 on hinnanguliselt 5,6%.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "SKP-st",
   "textSourceDescription": "Allikas",
   "textSource": "Euroopa Kutseõppe Arenduskeskus",
   "textNoteDescription": "Märkus",
-  "textNote": "Maksimaalset tööhõive kasvu tulevikus oodatakse IKT-ga seotud teenustes, millele järgnevad erialateenused, tervishoiu- ja sotsiaalteenused ning hotellid ja restoranid.",
+  "textNote": "Maksimaalset tööhõive kasvu tulevikus oodatakse IKT-ga seotud teenuste valdkonnas, millele järgnevad professionaalsed teenused, tervishoiu- ja sotsiaalteenused ning hotellid ja restoranid.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

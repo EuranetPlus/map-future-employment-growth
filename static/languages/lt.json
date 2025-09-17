@@ -1,13 +1,13 @@
 {
-  "heading": "Kurios ES šalys pasiūlys geriausias įsidarbinimo perspektyvas ateinančiais metais?",
-  "subheading": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "heading": "Kurios ES šalys ateinančiais metais siūlys geriausias įsidarbinimo perspektyvas?",
+  "subheading": "Prognozuojama, kad šių šalių užimtumo augimas 2022–2035 m. sieks 5,6 %.",
   "legend1": "Nėra duomenų",
   "tooltip1": "BVP",
   "textSourceDescription": "Šaltinis",
   "textSource": "Europos profesinio mokymo plėtros centras",
   "textNoteDescription": "Pastaba",
-  "textNote": "Tikimasi, kad ateityje didžiausias užimtumo augimas su IRT susijusių paslaugų sektoriuje, o vėliau – profesionalių paslaugų, sveikatos ir socialinių paslaugų, viešbučių ir restoranų sektoriuje.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Didžiausio užimtumo augimo ateityje tikimasi IRT susijusių paslaugų srityje, po jos seka profesinių paslaugų, sveikatos ir socialinių paslaugų bei viešbučių ir restoranų sektoriai.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Cé na tíortha san AE a thabharfaidh na hionchais fostaíochta is fearr sna blianta atá le teacht?",
-  "subheading": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "heading": "Cé na tíortha san AE a chuirfidh na hionchais fostaíochta is fearr ar fáil sna blianta amach romhainn?",
+  "subheading": "Meastar go mbeidh fás fostaíochta amach anseo sna tíortha seo idir 2022 agus 2035 ag 5.6%.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de OTI",
+  "tooltip1": "den OTI",
   "textSourceDescription": "Foinse",
-  "textSource": "An Lárionad Eorpach um Fhorbairt na Gairmoiliúna",
+  "textSource": "Lárionad Eorpach um Fhorbairt na hOiliúna Gairme",
   "textNoteDescription": "Nóta",
-  "textNote": "Táthar ag súil le huasmhéadú fostaíochta amach anseo i seirbhísí a bhaineann le TFC, agus ina dhiaidh sin seirbhísí gairmiúla, seirbhísí sláinte agus sóisialta, agus óstáin agus bialanna.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Táthar ag súil le fás fostaíochta uasta amach anseo i seirbhísí a bhaineann le TFC, agus ina dhiaidh sin seirbhísí gairmiúla, seirbhísí sláinte agus sóisialta, agus óstáin agus bialanna.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

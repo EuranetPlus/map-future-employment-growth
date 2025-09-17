@@ -1,13 +1,13 @@
 {
   "heading": "Hvilke EU-lande vil tilbyde de bedste beskæftigelsesmuligheder i de kommende år?",
-  "subheading": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
-  "legend1": "Ingen tilgængelige data",
+  "subheading": "Den fremtidige beskæftigelsesvækst i disse lande i 2022-2035 anslås til 5,6 %.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af BNP",
   "textSourceDescription": "Kilde",
   "textSource": "Det Europæiske Center for Udvikling af Erhvervsuddannelse",
   "textNoteDescription": "Note",
-  "textNote": "Maksimal fremtidig vækst i beskæftigelsen forventes inden for ikt-relaterede tjenester, efterfulgt af professionelle tjenester, sundheds- og socialtjenester samt hoteller og restauranter.",
-  "textDataAccess": "Få adgang til data",
+  "textNote": "Maksimal fremtidig beskæftigelsesvækst forventes inden for IKT-relaterede tjenester, efterfulgt af liberale tjenester, sundheds- og sociale tjenester samt hoteller og restauranter.",
+  "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

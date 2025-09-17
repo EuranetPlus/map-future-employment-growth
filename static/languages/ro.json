@@ -1,13 +1,13 @@
 {
-  "heading": "Care țări UE vor oferi cele mai bune perspective de angajare în următorii ani?",
+  "heading": "Care țări ale UE vor oferi cele mai bune perspective de angajare în următorii ani?",
   "subheading": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "a PIB-ului",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "din PIB",
   "textSourceDescription": "Sursă",
   "textSource": "Centrul European pentru Dezvoltarea Formării Profesionale",
   "textNoteDescription": "Nota",
-  "textNote": "Se așteaptă o creștere maximă a ocupării forței de muncă în viitor în serviciile legate de TIC, urmate de serviciile profesionale, serviciile de sănătate și sociale și hoteluri și restaurante.",
+  "textNote": "Creșterea maximă a ocupării forței de muncă în viitor este așteptată în serviciile legate de TIC, urmate de serviciile profesionale, serviciile de sănătate și sociale, precum și hotelurile și restaurante.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://www.cedefop.europa.eu/ro/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

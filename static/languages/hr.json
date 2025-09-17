@@ -1,13 +1,13 @@
 {
-  "heading": "Koje će zemlje EU-a nuditi najbolje izglede za zapošljavanje u nadolazećim godinama?",
-  "subheading": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "heading": "Koje će zemlje EU-a ponuditi najbolje izglede za zapošljavanje u nadolazećim godinama?",
+  "subheading": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022.-2035. procjenjuje se na 5,6%.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "BDP-a",
   "textSourceDescription": "Izvor",
   "textSource": "Europski centar za razvoj strukovnog obrazovanja",
   "textNoteDescription": "Bilješka",
-  "textNote": "Najveći budući rast zaposlenosti očekuje se u uslugama povezanim s ICT-om, nakon čega slijede profesionalne usluge, zdravstvene i socijalne usluge te hoteli i restorani.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Najveći budući rast zaposlenosti očekuje se u uslugama povezanim s IKT-om, a slijede profesionalne usluge, zdravstvene i socijalne usluge te hoteli i restorani.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Kliknite za više informacija"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Liema pajjiżi tal-UE se joffru l-aħjar prospetti ta' impjieg fis-snin li ġejjin?",
-  "subheading": "It-tkabbir futur tal-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "tal-PGD",
+  "heading": "Liema pajjiżi tal-UE se joffru l-aqwa prospetti ta' impjieg fis-snin li ġejjin?",
+  "subheading": "It-tkabbir tal-impjiegi fil-futur f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "tal-PDG",
   "textSourceDescription": "Sors",
   "textSource": "Ċentru Ewropew għall-Iżvilupp tat-Taħriġ Vokazzjonali",
   "textNoteDescription": "Nota",
-  "textNote": "Tkabbir massimu tal-impjiegi fil-futur huwa mistenni fis-servizzi relatati mal-ICT, segwiti minn servizzi professjonali, servizzi tas-saħħa u soċjali, u lukandi u ristoranti.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "L-akbar tkabbir fl-impjiegi fil-futur huwa mistenni fis-servizzi relatati mal-ICT, segwiti mis-servizzi professjonali, is-servizzi tas-saħħa u soċjali, u l-lukandi u r-ristoranti.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

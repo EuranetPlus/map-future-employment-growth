@@ -1,12 +1,12 @@
 {
-  "heading": "Které země EU nabídnou v nadcházejících letech nejlepší vyhlídky na zaměstnání?",
-  "subheading": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Které země EU nabídnou v nadcházejících letech nejlepší pracovní vyhlídky?",
+  "subheading": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022–2035 se odhaduje na 5,6 %.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "HDP",
   "textSourceDescription": "Zdroj",
   "textSource": "Evropské centrum pro rozvoj odborného vzdělávání",
   "textNoteDescription": "Poznámka",
-  "textNote": "Maximální budoucí růst zaměstnanosti se očekává ve službách souvisejících s ICT, následovanými odbornými službami, zdravotními a sociálními službami a hotely a restaurace.",
+  "textNote": "Maximální budoucí růst zaměstnanosti se očekává ve službách souvisejících s informačními a komunikačními technologiemi, následovaných profesionálními službami, zdravotnictvím a sociálními službami a hotely a restauracemi.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
   "textCountryClick": "Klikněte pro více informací"

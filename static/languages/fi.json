@@ -1,13 +1,13 @@
 {
   "heading": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät tulevina vuosina?",
-  "subheading": "Näissä maissa tulevaisuudessa työllisyyden kasvuksi 2022-2035 arvioidaan 5,6 %.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Työllisyyden kasvun näissä maissa vuosina 2022–2035 arvioidaan olevan 5,6 prosenttia.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "BKT:sta",
   "textSourceDescription": "Lähde",
   "textSource": "Euroopan ammatillisen koulutuksen kehittämiskeskus",
-  "textNoteDescription": "Huom",
-  "textNote": "Suurin mahdollinen työllisyyden kasvu tulevaisuudessa odotetaan ICT-alalla, jonka jälkeen tulevat asiantuntijapalvelut, terveys- ja sosiaalipalvelut sekä hotellit ja ravintolat.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Suurinta työllisyyden kasvua odotetaan tulevaisuudessa ICT-palveluissa, joita seuraavat ammatilliset palvelut, terveys- ja sosiaalipalvelut sekä hotelli- ja ravintola-ala.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Vilka EU-länder kommer att erbjuda de bästa sysselsättningsmöjligheterna under de kommande åren?",
-  "subheading": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "heading": "Vilka EU-länder kommer att erbjuda de bästa sysselsättningsutsikterna under de kommande åren?",
+  "subheading": "Den framtida sysselsättningstillväxten i dessa länder under 2022–2035 uppskattas till 5,6 %.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "av BNP",
   "textSourceDescription": "Källa",
   "textSource": "Europeiskt centrum för utveckling av yrkesutbildning",
   "textNoteDescription": "Notera",
   "textNote": "Maximal framtida sysselsättningstillväxt förväntas inom IKT-relaterade tjänster, följt av professionella tjänster, hälso- och sjukvård och sociala tjänster samt hotell och restauranger.",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://www.cedefop.europa.eu/en/tools/skills-intelligence/future-employment-growth?country=EU27&year=2022-2035#1",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }
